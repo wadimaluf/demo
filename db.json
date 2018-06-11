@@ -1,14 +1,72 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pharmacies": [
+    {
+        "Nombre":"Nombre Farmacia 1",
+        "Domicilio": {
+            "Calle": "Calle Falsa",
+            "NroCalleKM": "1234",
+            "Piso": "2",
+            "Dpto": "D",
+            "CP": "1406",
+            "Localidad": "Flores",
+            "Provincia": "CABA"
+        },
+        "Latitud": "",
+        "Longitud": "",
+        "Mail": "mailfalso@gmail.com",
+        "Telefono": "4-555-5555",
+        "HorarioDeAtencion": "9hs a 20hs"
+    },
+    {
+        "Nombre":"Nombre Farmacia 2",
+        "Domicilio": {
+            "Calle": "Calle Falsa",
+            "NroCalleKM": "1234",
+            "Piso": "2",
+            "Dpto": "D",
+            "CP": "1406",
+            "Localidad": "Flores",
+            "Provincia": "CABA"
+        },
+        "Latitud": "",
+        "Longitud": "",
+        "Mail": "mailfalso@gmail.com",
+        "Telefono": "4-555-5555",
+        "HorarioDeAtencion": "9hs a 20hs"
+    },
+    {
+        "Nombre":"Nombre Farmacia 3",
+        "Domicilio": {
+            "Calle": "Calle Falsa",
+            "NroCalleKM": "1234",
+            "Piso": "2",
+            "Dpto": "D",
+            "CP": "1406",
+            "Localidad": "Flores",
+            "Provincia": "CABA"
+        },
+        "Latitud": "",
+        "Longitud": "",
+        "Mail": "mailfalso@gmail.com",
+        "Telefono": "4-555-5555",
+        "HorarioDeAtencion": "9hs a 20hs"
+    },
+    {
+        "Nombre":"Nombre Farmacia 4",
+        "Domicilio": {
+            "Calle": "Calle Falsa",
+            "NroCalleKM": "1234",
+            "Piso": "2",
+            "Dpto": "D",
+            "CP": "1406",
+            "Localidad": "Flores",
+            "Provincia": "CABA"
+        },
+        "Latitud": "",
+        "Longitud": "",
+        "Mail": "mailfalso@gmail.com",
+        "Telefono": "4-555-5555",
+        "HorarioDeAtencion": "9hs a 20hs"
+    }
+  ]
 }
