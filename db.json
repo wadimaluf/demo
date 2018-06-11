@@ -1,7 +1,7 @@
 {
   "pharmacies": [
     {
-        "Nombre":"Nombre Farmacia 1",
+        "Nombre":"Alto test",
         "Domicilio": {
             "Calle": "Calle Falsa",
             "NroCalleKM": "1234",
